@@ -1,0 +1,21 @@
+1.java获取redis连接，一段时间后报 java.net.SocketException: Connection reset 错误
+
+2.redis持久化的问题，save命令报错
+
+3.实时需求流程计算
+
+4.数据传输用 json 格式， 到了代码层次，编写映射 java bean 类
+
+5.双流join的时候，另一条流从哪里来，比如订单表和订单详情表是实时进行同步的吗
+
+6.kafka写数据先写到 缓存区
+
+7.维度表放在redis中，redis里面能放下多大的数据
+
+8.一个程序里面如果有很多个数据需要关联，难道要写很多的数据流然后再去join吗？
+
+9.如果有多个数据流需要关联，该怎么做？
+
+10.如果是删除数据，kafka主题有该怎么去消费
+
+11.sparkstreaming join的时候可以多条件join吗?

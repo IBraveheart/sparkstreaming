@@ -1,0 +1,10 @@
+app\BaseLogApp.class
+bean\StartLog.class
+bean\PageLog.class
+util\PropertiesUtils.class
+bean\PageActionLog.class
+app\BaseLogAppRDD$1.class
+util\MyConfig.class
+app\BaseLogAppRDD.class
+util\MyKafkaUtils.class
+bean\PageDisplayLog.class
